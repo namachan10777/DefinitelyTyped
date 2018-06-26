@@ -1,0 +1,10 @@
+{
+  "name": "better-combine-reducers",
+  "version": "1.0.3",
+  "description": "typescript type definition for better-combine-reducers",
+  "author": "Nakano Masaki",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
